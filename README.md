@@ -17,3 +17,8 @@ some personal  program tools.
 	
 ## asio-client
 	asio 关于 tcp，udp， 和tcp with ssl 的三个客户端
+
+## git-alis-winodws
+	git 别名alias 的windows版本，
+		- 存储在 C:\Program Files\Git\etc\profile 这个路径根据git的安装路径不同而不同。
+		- 然后在 git bash 执行命令 source /etc/profile 后生效
